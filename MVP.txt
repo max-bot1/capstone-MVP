@@ -1,0 +1,16 @@
+Pitch:
+A website that allows you to search for MTG cards and put them together into a deck and can show you statistics from the deck and prices of the cards. 
+I would also want it to be able to export the deck as a txt file.
+
+MVP:
+Users can create an account and login
+Users can search for cards( and filter their search based on card characteristics)
+Users can create a deck (includes cards, name of deck, description etc.)
+Users can add cards to their deck
+Users can see the decks of other users
+Users can see images of the cards
+
+Future Features:
+Ability to export decks as a txt file.
+Users can see statistics on their deck or the decks of other users
+users can comment on the decks of other users
